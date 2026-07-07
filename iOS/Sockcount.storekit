@@ -1,0 +1,27 @@
+{
+  "identifier" : "Sockcount",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "SOCKCOUNT_PRO",
+      "localizations" : [
+        {
+          "description" : "Hourly Reminders + Weekly Chart",
+          "displayName" : "Sockcount Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.movementlog.pro",
+      "referenceName" : "Sockcount Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
